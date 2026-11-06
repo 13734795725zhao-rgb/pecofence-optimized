@@ -3,7 +3,7 @@
 >
 > Upstream: [DayuanJiang/PecoFence](https://github.com/DayuanJiang/PecoFence) · Apache-2.0 · by DayuanJiang and contributors · [website](https://pecofence.jiang.jp/)
 >
-> This fork adds **start-up, idle-power and menu-behaviour optimisations** — boot-silent event filtering, a frame-clock idle self-heal, delayed icon hiding and native-only shell menus. Every changed file is listed in **[FORK-NOTES.md](FORK-NOTES.md)**.
+> This fork changes three things: it **starts faster on a busy desktop**, it **stopped draining the battery while idle**, and its **right-click menus are plain Windows menus** instead of partly hand-drawn ones. It also fixes building from a folder whose path contains Chinese characters. Every changed file is listed in **[FORK-NOTES.md](FORK-NOTES.md)**.
 >
 > It is **not** endorsed by the upstream author, and it does **not** include upstream's 0.2.4 / 0.2.5 fixes. For official builds, downloads and support, go upstream.
 
